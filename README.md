@@ -1,0 +1,2 @@
+# sozluk
+tanımlama bölümü
